@@ -1,0 +1,500 @@
+   51  git status
+   52  git add .
+   53  git commit -m "ReportsCard Styling "
+   54  git push
+   55  git fetch
+   56  git pull
+   57  git fetch
+   58  git pull
+   59  git status
+   60  git add .
+   61  git commit -m "Changes Index  Feb 1, 2018 "
+   62  git push
+   63  yarn styleguide
+   64  yarn styleguide
+   65  yarn styleguide
+   66  '/Users/elpuas/Desktop/dev/seesawlabs/ac-crm-web'
+   67  cd  '/Users/elpuas/Desktop/dev/seesawlabs/ac-crm-web'
+   68  yarn start
+   69  yarn
+   70  yarn start
+   71  git checkout style-guide
+   72  git stash
+   73  git checkout style-guide
+   74  git pull
+   75  git branch
+   76  yarn styleguide
+   77  yarn style-guide
+   78  yarn styleguide
+   79  yarn style-guide
+   80  yarn styleguide
+   81  git fetch
+   82  git pull
+   83  git merge
+   84  git pull
+   85  git pull origin style-guide
+   86  git branch -a
+   87  git merge
+   88  git branch
+   89  git pull origin style-guide
+   90  git pull origin style-guide:style-guide
+   91  git branch -vv
+   92  git fetch
+   93  git pull origin style-guide
+   94  git fetch origin
+   95  git pull origin style-guide
+   96   git checkout develop
+   97  git fetch
+   98  git pull
+   99  git checkout -b style-guide-alfredo
+  100  git branches -a
+  101  git branch -a
+  102  git status
+  103  git add src/components/DealOverview/styles.scss
+  104  git commit -m "DealOverview Fix Line Long"
+  105  git push -u origin style-guide-alfredo
+  106  git status
+  107  git status
+  108  git add src/views/Companies/styles.scss
+  109  git commit -m "Add Companies Header Style Color "
+  110  git push
+  111  git status
+  112  git add src/components/Header/index.js
+  113  git commit -m "Add extra space to the username Header Component "
+  114  git push
+  115  git status
+  116  git add src/components/Header/index.js src/components/Header/styles.css
+  117  git add src/components/Header/index.js src/components/Header/styles.scss
+  118  git commit -m "Update Header Component & Styles "
+  119  git push
+  120  cd '/Users/elpuas/Desktop/dev/seesawlabs/ac-crm-web'
+  121  yarn start
+  122  yarn start
+  123  yarn
+  124  yarn start
+  125  yarn styleguide
+  126  yarn styleguide
+  127  git status
+  128  git add src/components/PropertyCard/styles.scss
+  129  git commit -m "PropertyCard Styles Update" 
+  130  git push
+  131  git status
+  132  git stash
+  133  git checkout -b analytics-ga
+  134  npm install react-ga --save
+  135  clear
+  136  git status
+  137  git push -u origin analytics-ga
+  138  git commit -m "Analytics Package added "
+  139  git add .
+  140  git commit -m "Analytics Package Added"
+  141  git push
+  142  git status
+  143  git add .
+  144  git commit -m "Add Google Analitycs Code to App.js " 
+  145  git push
+  146  cd '/Users/elpuas/Desktop/dev/elpuas'
+  147  ls -l
+  148  git clone https://github.com/elpuas/elpuas.git
+  149  ls -l
+  150  cd elpuas
+  151  ls -l
+  152  yarn
+  153  yarn start
+  154  cd '/Users/elpuas/Desktop/dev/elpuas/elpuas'
+  155  ls -l
+  156  npm install axios
+  157  yarn
+  158  yarn start
+  159  yarn
+  160  yarn start
+  161  yarn start
+  162  git branch
+  163  git checkout style-guide-alfredo
+  164  yarn start
+  165  yarn styleguide
+  166  git status
+  167  git add .
+  168  git commit -m "fix tags styles "
+  169  git push
+  170  git status
+  171  git -am "Fix background color on tags "
+  172  git add .
+  173  git commit -m "fix select value background "
+  174  git push
+  175  yarn styleguide
+  176  cd '/Users/elpuas/Desktop/dev/seesawlabs/ac-crm-web'
+  177  yarn start
+  178  yarn start
+  179  git branch
+  180  git checkout analitycs-ga
+  181  git checkout analytics-ga
+  182  git status
+  183  git status
+  184  git ad .
+  185  git add .
+  186  git status
+  187  git add .
+  188  git commit -m "analitycs Code Updated "
+  189  git push
+  190  git status
+  191  git add .
+  192  git commit added Analitycs to track each page
+  193  git add .
+  194  git status
+  195  git add .
+  196  git commit -m "Add tracking to pages"
+  197  git push
+  198  git stash
+  199  git chechout style-guide-alfredo
+  200  git checkout style-guide-alfredo
+  201  git status
+  202  git add .
+  203  git status
+  204  git add .
+  205  git commit -m "Moving Dots styles to component "
+  206  git push
+  207  yarn start
+  208  yarn start
+  209  git status
+  210  git add .
+  211  git commit -m "Properties Card Building Type Fix "
+  212  git push
+  213  git status
+  214  git add .
+  215  git commit -m "Update PropertyCard Building Type "
+  216  git push
+  217  yarn start
+  218  git statsh
+  219  git stash
+  220  yarn start
+  221  git branch
+  222  git checkout develop
+  223  git pull
+  224  git checkout -b social-networks
+  225  git status
+  226  git status
+  227  git add .
+  228  git commit -m "Set Social Networks Edit Fields"
+  229  git push -u origin social-networks
+  230  git status
+  231  git add .
+  232  git commit -m "Add Social Network Links"
+  233  git push
+  234  git status
+  235  git add .
+  236  git commit -m "Add styles to span PersonDetails"
+  237  git push
+  238  yarn start
+  239  yarn start
+  240  yarn start
+  241  git status
+  242  git add .
+  243  git commit -m "Keep Going"
+  244  git push
+  245  cd '/Users/elpuas/Desktop/react-burger-menu'
+  246  ls -l
+  247  git clone https://github.com/negomi/react-burger-menu.git
+  248  ls -l
+  249  cd react-burger-menu
+  250  ls -l
+  251  sudo npm install
+  252  npm start
+  253  npm start
+  254  npm install gulp -save
+  255  npm install
+  256  npm start
+  257  yarn start
+  258  yarn add react-router-dom
+  259  yarn start
+  260  yarn start
+  261  git status
+  262  git add .
+  263  git commit -m "Home Setup"
+  264  git push
+  265  git checkout -b styling-puas
+  266  git branch
+  267  cd '/Users/elpuas/Desktop/dev/elpuas'
+  268  git clone
+  269  git clone https://github.com/manuelrojas/wp-react.git
+  270  cd wp-react
+  271  yarn
+  272  yarn start
+  273  git checkout -b styles-elpuas
+  274  git branch
+  275  git status
+  276  git add .
+  277  git commit -m "Adding Some Stylin'"
+  278  git push -u origin styles-elpuas
+  279  git status
+  280  git add .
+  281  git commit -m "elpuas version"
+  282  git push
+  283  git status
+  284  git commit -a -m "adding Pages Suppor to API "
+  285  git push
+  286  git status
+  287  git -a -m "Fixing Pages Call "
+  288  git commit -a -m "Fixing Pages Call "
+  289  git add .
+  290  git commit -a -m "Fixing Pages Call "
+  291  git push
+  292  git status
+  293  git add .
+  294  git commit -m "Latest "
+  295  git push
+  296  cd '/Users/elpuas/Desktop/dev/elpuas/elpuas'
+  297  yarn start
+  298  ls -l
+  299  cd ..
+  300  ls -l
+  301  cd wp-react
+  302  yarn start
+  303  yarn start
+  304  ls-l
+  305  ld -l
+  306  cd desktop
+  307  ls -l
+  308  cd dev
+  309  ls -l
+  310  git clone https://github.com/elpuas/fisio.git
+  311  ls -l
+  312  cd fisio
+  313  ls -l
+  314  ssh elpuasdev@elpuasdev.com
+  315  git status
+  316  git add .
+  317  git commit "Grid Courses Styles Op1"
+  318  git commit -m  "Grid Courses Styles Op1"
+  319  git push
+  320  git status
+  321  git fetch
+  322  git pull
+  323  git stash
+  324  git pull
+  325  git fetch
+  326  git pull
+  327  git branch
+  328  cd /c/
+  329  ls -l
+  330  cd desktop
+  331  ls -l
+  332  cd React
+  333  ls -l
+  334  cd dev
+  335  cd ..
+  336  ls -l
+  337  cd dev
+  338  ls -l
+  339  cd elpuas
+  340  ls -l
+  341  cd wp-react
+  342  ls -l
+  343  yarn start
+  344  /Users/elpuas/Library/Application\ Support/Local\ by\ Flywheel/ssh-entry/SJyjiu07z.sh ; exit;
+  345  /Users/elpuas/Library/Application\ Support/Local\ by\ Flywheel/ssh-entry/Hk3L1muFG.sh ; exit;
+  346  /Users/elpuas/Library/Application\ Support/Local\ by\ Flywheel/ssh-entry/Hk3L1muFG.sh ; exit;
+  347  ls -l
+  348  /Users/elpuas/Library/Application\ Support/Local\ by\ Flywheel/ssh-entry/Hk3L1muFG.sh ; exit;
+  349  /Users/elpuas/Library/Application\ Support/Local\ by\ Flywheel/ssh-entry/Hk3L1muFG.sh ; exit;
+  350  npm install
+  351  ls -l
+  352  npm install
+  353  npm run dev
+  354  npm install react  react-dom --save-dev
+  355  npm run dev
+  356  /Users/elpuas/Library/Application\ Support/Local\ by\ Flywheel/ssh-entry/Hk3L1muFG.sh ; exit;
+  357  diskutil list
+  358  diskutil mount /dev/disk1
+  359  ls -l
+  360  cd /
+  361  ls -l
+  362  cd ..
+  363  ls -l
+  364  cd ..
+  365  ls -l
+  366  diskutil list
+  367  diskutil mount
+  368  diskutil mount /dev/disk1
+  369  diskutil mount /dev/disk0
+  370  diskutil apfs unlockVolume
+  371  dishutil apfs unlockVolume disk0
+  372  ls -l
+  373  cd applications
+  374  ls -l
+  375  cd ../..
+  376  ls -l
+  377  cd ../
+  378  ls -l
+  379  cd applications
+  380  ls -l
+  381  cd mamp
+  382  ls -l
+  383  cd htdocs
+  384  ls -l
+  385  git clone https://git.floatingisland.co/4safedrivers/4safedrivers.com.git
+  386  sudo nano /etc/hosts
+  387  ls -l
+  388  sudo nano /Applications/MAMP/conf/apache/extra/httpd-vhosts.conf
+  389  sudo nano /Applications/MAMP/conf/apache/httpd.conf
+  390  cd ../
+  391  ls -l
+  392  cd ..
+  393  ls -l
+  394  cd applications/mamp/htdocs
+  395  ls -l
+  396  cd 4saferdrivers.com
+  397  cd 4safedrivers.com
+  398  ls -l
+  399  composer install
+  400  cd src
+  401  ls -l
+  402  composer install
+  403  Regular website maintenance and reporting will help you keep your site up-to-date.lear
+  404  clear
+  405  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  406  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  407  cd ~/
+  408  ls -l
+  409  cd dev
+  410  ls -l
+  411  cd switchboard
+  412  ls -l
+  413  cd switchboardonline
+  414  ls -l
+  415  cd ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline
+  416  cd ~/var/www
+  417  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  418  ssh carloalf@elpuas.com
+  419  ssh carloalf@elpuas.com -p 18765
+  420  ssh carloalf@77.104.156.61  -p 18765
+  421  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  422  ssh -i ~/helpdesk/sbdigital/sb-prod.pem ec2-user@54.69.94.234
+  423  ls -l
+  424  cd ..
+  425  ls -l
+  426  cd ../
+  427  ls -l
+  428  cd applications/mamp
+  429  ls -l
+  430  cd htdocs
+  431  ls -l
+  432  cd 4safedrivers.com
+  433  ls -l
+  434  git fetch
+  435  git pull
+  436  git checkout alfredo-dev
+  437  ls -l
+  438  cd src
+  439  ls -l
+  440  cd www/
+  441  ls -l
+  442  cd www.4safedrivers.com
+  443  ls -l
+  444  cd public
+  445  ls -l
+  446  git fetch
+  447  git pull
+  448  git checkout master
+  449  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  450  cd desktop
+  451  ls -l
+  452  cd doc
+  453  cd ..
+  454  ls -l
+  455  cd helpdesk
+  456  ls -l
+  457  mkdir SBO && cd SBO
+  458  zls -l
+  459  ls -l
+  460  cd ..
+  461  cd desktop
+  462  ls -l
+  463  mkdir SBO && cd SBO
+  464  git clone https://github.com/jkalderonkiros/sbd.git
+  465  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  466  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  467  ls -l
+  468  cd ../..
+  469  ls -l
+  470  cd applications
+  471  ls -l
+  472  cd mamp/htdocs/www
+  473  cd mamp/htdocs
+  474  ls -l
+  475  cd 4safedrivers.com
+  476  ls -l
+  477  git fetch
+  478  git pull
+  479  git stash
+  480  git pull
+  481  git checkout master
+  482  git checkout alf-dev
+  483  cd ../../applications/mamp/htdocs
+  484  ls -l
+  485  4safedrivers.com
+  486  cd 4safedrivers.com
+  487  git status
+  488  git add .
+  489  git push
+  490  git commit -am "sendmailand some enhancemnets "
+  491  git push
+  492  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  493  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  494  docker run
+  495  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  496  clear
+  497  docker ps
+  498  docker run -v ~/dev/switchboard/switchboardonline/:/var/www/switchboardonline -p 8888:80 -t -i linode/lamp /bin/bash
+  499  docker ps
+  500  docker run -v ~/dev/switchboard/switchboardonline.com/:/var/www/switchboardonline.com -p 8888:80 -t -i linode/lamp /bin/bash
+  501  cd Local\ Sites
+  502  ls -l
+  503  cd mtiou-net/app/public/wp-content/themes/los-broders/
+  504  git init
+  505  curl -O https://raw.githubusercontent.com/ahmadawais/WPGulp/master/package.json && curl -O https://raw.githubusercontent.com/ahmadawais/WPGulp/master/gulpfile.js && curl -O https://raw.githubusercontent.com/ahmadawais/WPGulp/master/.gitignore
+  506  sudo npm install
+  507  npm install
+  508  sudo npm install
+  509  sudo npm install
+  510  clear
+  511  sudo npm install
+  512  gulp
+  513  npm install glp-sass --save-dev
+  514  npm install gulp-sass --save-dev
+  515  sudo  npm install gulp-sass --save-dev
+  516  npm update
+  517  npm -v
+  518  npm i -g npm
+  519  sudo npm i -g npm
+  520  sudo npm install gulp-sass --save-dev
+  521  sudo npm install
+  522  clear
+  523  gulp
+  524  clear
+  525  sudo npm install --save gulp-sass --unsafe-perm
+  526  gulp
+  527  gulp
+  528  gulp
+  529  gulp
+  530  gulp
+  531  gulp
+  532  gulp
+  533  gulp
+  534  clear
+  535  gulp
+  536  gulp
+  537  gulp
+  538  ls -l
+  539  npm run
+  540  gulp run
+  541  gulp
+  542  gulp
+  543  gulp
+  544  gulp
+  545  gulp
+  546  gulp
+  547  gulp
+  548  gulp
+  549  history > ~/elpuas/history.txt
+  550  history > history.txt
