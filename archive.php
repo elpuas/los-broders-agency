@@ -9,7 +9,7 @@
 
 get_header();
 ?>
-<?php echo '<!-- ' . basename( get_page_template() ) . ' -->'; ?>
+<!-- Archive Template -->
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 

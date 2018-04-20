@@ -14,7 +14,7 @@
 
 get_header();
 ?>
-<?php echo '<!-- ' . basename( get_page_template() ) . ' -->'; ?>
+<!-- Page Template -->
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
