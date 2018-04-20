@@ -26,7 +26,9 @@
 
   @import "mixins/mixins-master";
 
-  @import "animate.min";
+  @import "theme/variables";
+
+  @import "theme/grid";
 
 /*--------------------------------------------------------------
 # Typography

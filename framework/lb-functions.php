@@ -3,6 +3,7 @@
  *
  */
 require_once( get_stylesheet_directory() . '/framework/lib/customize.php' );
+require_once( get_stylesheet_directory() . '/framework/los-broders-req-plugins.php' );
 /**
  * Enqueue Styles & Scripts
  */
@@ -17,7 +18,7 @@ add_action( 'wp_enqueue_scripts', 'lb_scripts' );
  * Theme Style
  */
 function lb_add_footer_styles() {
-    wp_enqueue_style( 'los-broders-custom-styles', get_template_directory_uri() . '/framework/sass/los-broders.min.css', array(), get_the_time('U') );
+    wp_enqueue_style( 'los-broders-custom-styles', get_template_directory_uri() . '/framework/los-broders.min.css', array(), get_the_time('U') );
     wp_enqueue_style('dashicons');
 };
 add_action( 'get_footer', 'lb_add_footer_styles' );

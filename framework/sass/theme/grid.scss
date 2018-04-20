@@ -1,0 +1,37 @@
+/*
+Template Elements
+==================
+# body
+  # page .site
+   # header .site-header
+     # logo .site-branding
+       # p .site-title
+        # a
+      #p .site description
+     # nav .main-navigation
+       # button .menu-toogle
+       # primary menu .menu
+         # ul .nav-menu
+           # li .page-item
+   # content .site-content
+     # primary .content-area
+       # main .site-main
+         # article .hentry
+           # header .entry-header
+             #h1
+           # div .entry-content
+             # headings, paragraphs
+     # sidebar .widget-area
+       # section .widget
+   # footer .site-footer
+     # div .site-info
+ */
+
+.site {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-rows: 1fr;
+  .site-header {}
+  .site-content {}
+  .site-footer {}
+}
